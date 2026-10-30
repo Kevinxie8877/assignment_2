@@ -124,6 +124,7 @@ article {
     padding: 5px;
     display: inline-block;
     text-transform: uppercase;
+    color: rgb(88, 88, 88);
 }
 
 #lyrics section p {
@@ -144,7 +145,7 @@ article {
     border-top: 1px solid #dddd05;
     border-right: 1px solid #dddd05;
     text-transform: uppercase;
-    color: black;
+    color: rgb(88, 88, 88);
 }
 
 #about p {
@@ -168,6 +169,7 @@ footer {
     padding-top: 50px;
     border-top: 5px solid #ffff01;
     color: black;
+    font-size: 13px;
 }
 
 footer a {
